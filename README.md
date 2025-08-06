@@ -5,6 +5,7 @@ This repository contains Jupyter Notebooks exploring key ML algorithms with vari
 ## Notebooks
 
 - Linear Regression
+- Logistic Regression
 
 ## Setup Instructions 
 
