@@ -6,6 +6,8 @@ This repository contains Jupyter Notebooks exploring key ML algorithms with vari
 
 - Linear Regression
 - Logistic Regression
+- Decision Trees
+- Random Forest
 
 ## Setup Instructions 
 
