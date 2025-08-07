@@ -1,6 +1,6 @@
 # Machine Learning Algorithm Notebooks
 
-This repository contains Jupyter Notebooks exploring key ML algorithms with various Python packages and datasets.
+This repository contains Jupyter Notebooks exploring key ML algorithms with various Python packages and datasets. It also includes Markdown files covering concepts in ML theory.
 
 ## Notebooks
 
@@ -9,7 +9,7 @@ This repository contains Jupyter Notebooks exploring key ML algorithms with vari
 - Decision Trees
 - Random Forest
 
-## Setup Instructions 
+## Environment Setup Instructions 
 
 ```bash
 python -m venv env
